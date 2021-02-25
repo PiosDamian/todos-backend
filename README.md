@@ -7,6 +7,6 @@ https://github.com/PiosDamian/todos-backend
 
 `pip3 intsall -r requirements.txt`
 
-## uruchomienie
+## Uruchomienie
 
 `python manage.py runserver 8000`
